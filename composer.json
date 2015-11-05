@@ -1,0 +1,6 @@
+{
+    "require": {
+        "voryx/thruway": "dev-master",
+        "firebase/php-jwt": "^3.0"
+    }
+}
